@@ -1,0 +1,37 @@
+{
+    "name": "asset-revision-webpack-plugin",
+    "version": "1.0.0",
+    "description": "static assets revision",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zfengqi/asset-revision-webpack-plugin.git"
+    },
+    "keywords": [
+        "webpack",
+        "revision",
+        "plugin",
+        "html"
+    ],
+    "author": "elsonzhang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zfengqi/asset-revision-webpack-plugin/issues"
+    },
+    "homepage": "https://github.com/zfengqi/asset-revision-webpack-plugin#readme",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "htmlparser2": "^4.0.0"
+    },
+    "devDependencies": {
+        "webpack": "^4.41.5",
+        "webpack-cli": "^3.3.10"
+    },
+    "peerDependencies": {
+        "webpack": "^4",
+        "html-webpack-plugin": "^4"
+    }
+}
