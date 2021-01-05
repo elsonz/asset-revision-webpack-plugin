@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/zfengqi/asset-revision-webpack-plugin#readme",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "htmlparser2": "^4.0.0"
     },
     "devDependencies": {
